@@ -1,4 +1,4 @@
-4 Folders present inside.
+3 Folders present inside Main Project folder.
 ROS-bootstrap: Is the files for starting a local website from visual studio
 taigo_pc.zip: Initial files by Sara Cooper for robot control, not used.
 Master_project.zip: All the files made for the project's ROS control. As well as starting the gazebo simulation.
